@@ -22,7 +22,7 @@ colorRef.rgb.blue = 255;
 //Set blow to true to make the background transparent.
 var isTransparent = true;
 //Set below to true to use an image as background
-var isImageBg = true;
+var isImageBg = false;
 //If isImageBg is set to true,
 //it's required to the background image to be preopened in photohsop
 //Backdound image must be the active document
